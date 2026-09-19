@@ -122,6 +122,9 @@ The application auto-detects standard library catalog headers (case-insensitive)
 
 Uma aplicação concebida para bibliotecas do ensino superior, centros de documentação e investigadores para localizar, validar e associar textos integrais em acesso aberto (tanto ficheiros PDF diretos como páginas web de leitura e repositórios institucionais) a partir de listagens bibliográficas em formato Excel ou CSV (Koha, Porbase, MARC21, etc.).
 
+<img width="692" height="386" alt="Captura de ecrã 2026-09-19 111027" src="https://github.com/user-attachments/assets/f96c6178-8894-4cb7-9354-490b03ed5243" />
+<img width="692" height="309" alt="Captura de ecrã 2026-09-19 111108" src="https://github.com/user-attachments/assets/4e4f50df-ba0e-490b-a415-98f0c58dc931" />
+
 ---
 
 ### 🌟 Principais Funcionalidades
