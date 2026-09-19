@@ -172,7 +172,7 @@ function verifyBookMatch(
     ).toLowerCase();
     const candTitle = cleanWords(candidate.title || "").toLowerCase();
 
-    // Sometimes archive.org documents include author directly in title (e.g. "Pedagogia da Autonomia Paulo Freire")
+    // Sometimes archive.org documents include author directly in title (e.g. metadata naming convention)
     const hasAuthorMatch = recSurnames.some(sn => candAuthors.includes(sn) || candTitle.includes(sn));
     if (!hasAuthorMatch) {
       return {
@@ -203,7 +203,7 @@ function verifyBookMatch(
   const idx = candTitle.indexOf(recTitle);
   if (idx !== -1) {
     const beforeWords = candTitle.substring(0, idx).trim().split(/\s+/).filter(Boolean);
-    // If title appears after more than 2 words, it's likely an analytical article (e.g. "A categoria da práxis em Pedagogia do Oprimido")
+    // If title appears after more than 2 words, it's likely an analytical article citing the work
     if (beforeWords.length > 2) {
       return {
         match: false,

@@ -4,11 +4,11 @@ export const SAMPLE_BOOKS: BookRecord[] = [
   {
     id: "sample-1",
     biblionumber: "20101",
-    title: "Pedagogia do Oprimido",
-    author: "Paulo Freire",
-    isbn: "9788577531102",
-    publicationyear: "1968",
-    itemcallnumber: "37.01 FRE PED",
+    title: "Vidas de Professores",
+    author: "António Nóvoa",
+    isbn: "9789720341044",
+    publicationyear: "1992",
+    itemcallnumber: "371.12 NOV VID",
     status: "pending",
   },
   {
@@ -54,11 +54,11 @@ export const SAMPLE_BOOKS: BookRecord[] = [
   {
     id: "sample-6",
     biblionumber: "20106",
-    title: "Pedagogia da Autonomia: Saberes Necessários à Prática Educativa",
-    author: "Paulo Freire",
-    isbn: "9788521902430",
-    publicationyear: "1996",
-    itemcallnumber: "37.01 FRE PED",
+    title: "A Escola: o lugar onde os professores aprendem",
+    author: "Rui Canário",
+    isbn: "9789729661440",
+    publicationyear: "1999",
+    itemcallnumber: "371.12 CAN ESC",
     status: "pending",
   }
 ];

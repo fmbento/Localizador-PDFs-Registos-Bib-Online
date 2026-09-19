@@ -54,11 +54,11 @@ The application auto-detects standard library catalog headers (case-insensitive)
 
 | Field | Accepted Column Names | Example |
 | :--- | :--- | :--- |
-| **Title** *(Required)* | `title`, `titulo`, `título`, `obra`, `livro` | *Pedagogia do Oprimido* |
-| **Author** | `author`, `autor`, `autores`, `creator` | *Paulo Freire* |
-| **Publication Year** | `publicationyear`, `ano`, `data`, `ano_publicacao`, `year` | `1968` |
-| **ISBN** | `isbn`, `isbn13`, `isbn10`, `issn` | `9788577534166` |
-| **Item Call Number** | `itemcallnumber`, `cota`, `callnumber`, `classificacao` | `37.01 FRE` |
+| **Title** *(Required)* | `title`, `titulo`, `título`, `obra`, `livro` | *A Escola: o lugar onde os professores aprendem* |
+| **Author** | `author`, `autor`, `autores`, `creator` | *Rui Canário* |
+| **Publication Year** | `publicationyear`, `ano`, `data`, `ano_publicacao`, `year` | `1999` |
+| **ISBN** | `isbn`, `isbn13`, `isbn10`, `issn` | `9789729661440` |
+| **Item Call Number** | `itemcallnumber`, `cota`, `callnumber`, `classificacao` | `371.12 CAN ESC` |
 | **Biblio Number** | `biblionumber`, `id`, `registo`, `record_id` | `10425` |
 
 ---
@@ -158,11 +158,11 @@ A aplicação reconhece automaticamente as seguintes colunas (sem distinção en
 
 | Campo | Nomes de Coluna Reconhecidos | Exemplo |
 | :--- | :--- | :--- |
-| **Título** *(Obrigatório)* | `title`, `titulo`, `título`, `obra`, `livro` | *Pedagogia do Oprimido* |
-| **Autor** | `author`, `autor`, `autores`, `creator` | *Paulo Freire* |
-| **Ano de Publicação** | `publicationyear`, `ano`, `data`, `ano_publicacao`, `year` | `1968` |
-| **ISBN** | `isbn`, `isbn13`, `isbn10`, `issn` | `9788577534166` |
-| **Cota** | `itemcallnumber`, `cota`, `callnumber`, `classificacao` | `37.01 FRE` |
+| **Título** *(Obrigatório)* | `title`, `titulo`, `título`, `obra`, `livro` | *A Escola: o lugar onde os professores aprendem* |
+| **Autor** | `author`, `autor`, `autores`, `creator` | *Rui Canário* |
+| **Ano de Publicação** | `publicationyear`, `ano`, `data`, `ano_publicacao`, `year` | `1999` |
+| **ISBN** | `isbn`, `isbn13`, `isbn10`, `issn` | `9789729661440` |
+| **Cota** | `itemcallnumber`, `cota`, `callnumber`, `classificacao` | `371.12 CAN ESC` |
 | **Biblionumber** | `biblionumber`, `id`, `registo`, `record_id` | `10425` |
 
 ---
