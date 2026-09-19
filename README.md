@@ -10,7 +10,7 @@
 ---
 
 > **Language / Idioma:**  
-> **[English 🇬🇧 (Default)](#-english)** &nbsp;|&nbsp; **[Português 🇵🇹](#-português)**
+> **[English 🇬🇧](#-english)** &nbsp;|&nbsp; **[Português 🇵🇹](#-português)**
 
 ---
 
