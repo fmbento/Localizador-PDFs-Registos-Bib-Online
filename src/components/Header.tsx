@@ -34,7 +34,7 @@ export const Header: React.FC<HeaderProps> = ({ stats }) => {
               {/* Connected Academic Databases Strip */}
               <div className="flex flex-wrap items-center gap-1.5 mt-2">
                 <span className="text-[11px] font-semibold text-slate-400 uppercase tracking-wider mr-1">
-                  Bases Conectadas:
+                  Bases ligadas:
                 </span>
                 <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-[11px] font-medium bg-sky-50 text-sky-700 border border-sky-200">
                   ERIC (Ed.gov)
