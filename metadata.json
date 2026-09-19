@@ -1,0 +1,6 @@
+{
+  "name": "Localizador de PDFs Bibliográficos",
+  "description": "Upload de ficheiros XLSX/CSV com dados bibliográficos, pesquisa automática de textos integrais (PDFs diretos e páginas web em acesso aberto) em repositórios científicos e bibliotecas digitais, com validação de metadados e exportação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
